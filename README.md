@@ -18,7 +18,6 @@
 
 - 📄 Know about my experiences [https://krishansingh7.github.io/Portfolio/](https://krishansingh7.github.io/Portfolio/)
 
-- ⚡ Fun fact **Let's do some code after sleep :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
