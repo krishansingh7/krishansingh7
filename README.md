@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Krishan Singh</h1>
 <h3 align="center">CDAC Certified - HPC Engineer & Full Stack Developer from India</h3>
-<img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" width="400px" alt="coding" align="right"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3VyYnVtdDV3NmVyazYxdmhuNWc1ZXF2OHpwMmh3aW04M2htZ3QxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qiru6DuC7tZuOgjtBF/giphy.gif" width="400px" alt="coding" align="right"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishansingh7&label=Profile%20views&color=0e75b6&style=flat" alt="krishansingh7" /> </p>
 
-<p align="left"> <a href="https://twitter.com/n/a" target="blank"><img src="https://img.shields.io/twitter/follow/n/a?logo=twitter&style=for-the-badge" alt="n/a" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/n/a" target="blank"><img src="https://img.shields.io/twitter/follow/n/a?logo=twitter&style=for-the-badge" alt="n/a" /></a> </p> -->
 
-- 🌱 I’m a **HPC Engineer & Full Stack Developer**
+- 🌱 I’m a **HPC Engineer & Full Stack AI Developer**
 
 - 💬 Ask me about **HPC, Linux, Shell Scripting, Docker, Networking, C++, Java, Python, Streamlit, Fast API, HTML, CSS, Tailwind CSS, JS, ReactJS, NextJS, NodeJS, ExpressJS, Mongoose, MongoDB, MySQL**
 
