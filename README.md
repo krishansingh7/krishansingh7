@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krishan Singh</h1>
 <h3 align="center">CDAC Certified - HPC Engineer & Full Stack AI Developer</h3>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3VyYnVtdDV3NmVyazYxdmhuNWc1ZXF2OHpwMmh3aW04M2htZ3QxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qiru6DuC7tZuOgjtBF/giphy.gif" width="300px" alt="coding" align="right"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3VyYnVtdDV3NmVyazYxdmhuNWc1ZXF2OHpwMmh3aW04M2htZ3QxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qiru6DuC7tZuOgjtBF/giphy.gif" width="320px" alt="coding" align="right"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishansingh7&label=Profile%20views&color=0e75b6&style=flat" alt="krishansingh7" /> </p>
 
