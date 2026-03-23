@@ -29,10 +29,10 @@
 
 <h3>🛠️ Languages and Tools</h3>
 
-<table>
+<table width="100%">
   <tr>
-    <!-- LEFT COLUMN: Languages & Tools -->
-    <td valign="top">
+    <td valign="top" width="50%">
+      <h3>🛠️ Languages and Tools</h3>
       <table>
         <tr>
           <td><strong>💻 Programming</strong></td>
@@ -80,14 +80,20 @@
         </tr>
       </table>
     </td>
-    <td valign="top" align="center">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishansingh7&layout=compact&theme=tokyonight&cache_seconds=1800" /><br/>
-      <img src="https://streak-stats.demolab.com?user=krishansingh7&theme=tokyonight" />
+    <td valign="top" width="50%" align="center">
+      <h3>📊 GitHub Stats</h3>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=krishansingh7&layout=compact&theme=tokyonight&cache_seconds=1800"
+        width="100%"
+      /><br/>
+      <img
+        src="https://streak-stats.demolab.com?user=krishansingh7&theme=tokyonight"
+        width="100%"
+      />
     </td>
 
   </tr>
 </table>
-
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=krishansingh7&show_icons=true&theme=tokyonight&cache_seconds=1800" />
