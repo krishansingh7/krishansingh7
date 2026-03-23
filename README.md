@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Krishan Singh</h1>
+<h1 align="center">Hi 👋, I'm Krishna</h1>
 
 <h3 align="center">CDAC Certified - HPC Engineer & Full Stack AI Developer + DevOps Engineer</h3>
 
@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishansingh7&label=Profile%20views&color=0e75b6&style=flat" alt="krishansingh7" /> </p>
 
-- 🌱 I’m a **HPC Engineer & Full Stack AI Developer**
+- 🌱 I’m a **HPC Engineer & Full Stack AI Developer + DevOps Engineer**
 
 - 💬 Ask me about **HPC, Linux, Shell Scripting, Docker, Networking, C++, Java, Python, Streamlit, Fast API, HTML, CSS, Tailwind CSS, JS, ReactJS, NextJS, NodeJS, ExpressJS, Mongoose, MongoDB, MySQL**
 
