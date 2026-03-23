@@ -79,17 +79,15 @@
         </tr>
       </table>
     </td>
-    <td valign="top" width="50%" align="center">
+   <td valign="top" width="50%" align="center">
       <h3>📊 GitHub Stats</h3>
-       <img
+      <img
         src="https://streak-stats.demolab.com?user=krishansingh7&theme=tokyonight"
         width="100%"
-        height="195"
-      /><br/>
+      /><br/><br/>
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=krishansingh7&layout=compact&theme=tokyonight&cache_seconds=1800"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=krishansingh7&layout=compact&theme=tokyonight&langs_count=4&cache_seconds=1800"
         width="100%"
-        height="195"
       />
     </td>
 
