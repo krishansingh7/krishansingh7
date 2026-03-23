@@ -25,8 +25,11 @@
   </a>
 </p>
 
+
 <br/>
 <br/>
+<br/>
+
 
 <table width="100%">
   <tr>
@@ -90,12 +93,13 @@
         width="100%"
       />
     </td>
-
   </tr>
 </table>
+
+
+
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=krishansingh7&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p> -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishansingh7&" alt="krishansingh7" /></p> -->
-
