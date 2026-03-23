@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krishan Singh</h1>
+
 <h3 align="center">CDAC Certified - HPC Engineer & Full Stack AI Developer + DevOps Engineer</h3>
+
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3VyYnVtdDV3NmVyazYxdmhuNWc1ZXF2OHpwMmh3aW04M2htZ3QxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qiru6DuC7tZuOgjtBF/giphy.gif" width="320px" alt="coding" align="right"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishansingh7&label=Profile%20views&color=0e75b6&style=flat" alt="krishansingh7" /> </p>
@@ -43,9 +45,9 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github actions" width="40" height="40"/>
-  </a>
+   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="github actions" width="40"                  height="40"/>
+   </a>
 
   <a href="https://www.kernel.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
@@ -83,10 +85,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
@@ -102,6 +100,11 @@
   <a href="https://www.docker.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/user-attachments/assets/a988a4df-2622-4b49-9ecd-d12bbb867cfb" alt="docker" width="40" height="40"/>
   </a>
+
+  <!-- <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a> -->
+  
 </p>
 
 
