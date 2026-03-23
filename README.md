@@ -72,6 +72,9 @@
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" title="Figma"/>
     </td>
   </tr>
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishansingh7&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
 </table>
 
 ---
@@ -79,18 +82,12 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishansingh7&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishansingh7&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=krishansingh7&theme=tokyonight" />
 </p>
 
 
-
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishansingh7&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p> -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishansingh7&" alt="krishansingh7" /></p> -->
 
