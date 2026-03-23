@@ -66,10 +66,6 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
 </p>
 
-    </td>
-
-    <!-- RIGHT COLUMN -->
-    <td valign="top" width="50%">
 
 <h3 align="center">📊 GitHub Stats</h3>
 
@@ -85,11 +81,10 @@
   <img src="https://streak-stats.demolab.com?user=krishansingh7&theme=tokyonight" />
 </p>
 
-    </td>
   </tr>
 </table>
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishansingh7&" alt="krishansingh7" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishansingh7&" alt="krishansingh7" /></p> -->
 
