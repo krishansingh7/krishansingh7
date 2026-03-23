@@ -26,6 +26,7 @@
 </p>
 
 <br/>
+<br/>
 
 <table width="100%">
   <tr>
@@ -87,6 +88,7 @@
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs?username=krishansingh7&layout=compact&theme=tokyonight&cache_seconds=1800"
         width="100%"
+        height="90%"
       />
     </td>
 
