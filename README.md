@@ -82,7 +82,6 @@
     </td>
     <td valign="top" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=krishansingh7&show_icons=true&theme=tokyonight&cache_seconds=1800" /><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishansingh7&layout=compact&theme=tokyonight&cache_seconds=1800" /><br/>
       <img src="https://streak-stats.demolab.com?user=krishansingh7&theme=tokyonight" />
     </td>
 
