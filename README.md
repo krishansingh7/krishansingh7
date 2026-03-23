@@ -86,7 +86,7 @@
         width="100%"
       /><br/><br/>
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=krishansingh7&layout=compact&theme=tokyonight&langs_count=4&cache_seconds=1800"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=krishansingh7&layout=compact&theme=tokyonight&cache_seconds=1800"
         width="100%"
       />
     </td>
