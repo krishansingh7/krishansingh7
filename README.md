@@ -25,10 +25,6 @@
   </a>
 </p>
 
-<!-- <h3 align="left">🛠️ Languages and Tools</h3> -->
-
-<h3>🛠️ Languages and Tools</h3>
-
 <table width="100%">
   <tr>
     <td valign="top" width="50%">
@@ -82,12 +78,12 @@
     </td>
     <td valign="top" width="50%" align="center">
       <h3>📊 GitHub Stats</h3>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=krishansingh7&layout=compact&theme=tokyonight&cache_seconds=1800"
+       <img
+        src="https://streak-stats.demolab.com?user=krishansingh7&theme=tokyonight"
         width="100%"
       /><br/>
       <img
-        src="https://streak-stats.demolab.com?user=krishansingh7&theme=tokyonight"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=krishansingh7&layout=compact&theme=tokyonight&cache_seconds=1800"
         width="100%"
       />
     </td>
