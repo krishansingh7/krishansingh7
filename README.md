@@ -25,65 +25,70 @@
   </a>
 </p>
 
-<h3 align="left">🛠️ Languages and Tools</h3>
+<!-- <h3 align="left">🛠️ Languages and Tools</h3> -->
+<h3>🛠️ Languages and Tools</h3>
 
 <table>
   <tr>
-    <td><strong>💻 Programming</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" title="Java"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+    <!-- LEFT COLUMN: Languages & Tools -->
+    <td valign="top">
+      <table>
+        <tr>
+          <td><strong>💻 Programming</strong></td>
+          <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" title="Java"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+          </td>
+        </tr>
+        <tr>
+          <td><strong>🎨 Frontend</strong></td>
+          <td>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" title="HTML5"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" title="CSS3"/>
+            <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow@2x.png" width="40" title="Bootstrap"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" title="React"/>
+            <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" title="Tailwind CSS"/>
+          </td>
+        </tr>
+        <tr>
+          <td><strong>🖥️ Backend & DB</strong></td>
+          <td>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" title="Node.js"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" title="MongoDB"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" title="MySQL"/>
+          </td>
+        </tr>
+        <tr>
+          <td><strong>⚙️ DevOps</strong></td>
+          <td>
+            <img src="https://github.com/user-attachments/assets/a988a4df-2622-4b49-9ecd-d12bbb867cfb" width="40" title="Docker"/>
+            <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" title="Kubernetes"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" title="AWS"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="40" title="GitHub Actions"/>
+          </td>
+        </tr>
+        <tr>
+          <td><strong>🛠️ Tools</strong></td>
+          <td>
+            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" title="Linux"/>
+            <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" title="Figma"/>
+          </td>
+        </tr>
+      </table>
     </td>
-  </tr>
-  <tr>
-    <td><strong>🎨 Frontend</strong></td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" title="HTML5"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" title="CSS3"/>
-      <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow@2x.png" width="40" title="Bootstrap"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" title="React"/>
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" title="Tailwind CSS"/>
+
+    <!-- RIGHT COLUMN: GitHub Stats -->
+    <td valign="top" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=krishansingh7&show_icons=true&theme=tokyonight&cache_seconds=1800" /><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishansingh7&layout=compact&theme=tokyonight&cache_seconds=1800" /><br/>
+      <img src="https://streak-stats.demolab.com?user=krishansingh7&theme=tokyonight" />
     </td>
+
   </tr>
-  <tr>
-    <td><strong>🖥️ Backend & DB</strong></td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" title="Node.js"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" title="MongoDB"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" title="MySQL"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>⚙️ DevOps</strong></td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/a988a4df-2622-4b49-9ecd-d12bbb867cfb" width="40" title="Docker"/>
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" title="Kubernetes"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" title="AWS"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="40" title="GitHub Actions"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>🛠️ Tools</strong></td>
-    <td>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" title="Linux"/>
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" title="Figma"/>
-    </td>
-  </tr>
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishansingh7&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
 </table>
-
----
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=krishansingh7&theme=tokyonight" />
-</p>
 
 
 <!-- <p align="center">
