@@ -84,11 +84,12 @@
        <img
         src="https://streak-stats.demolab.com?user=krishansingh7&theme=tokyonight"
         width="100%"
+        height="195"
       /><br/>
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs?username=krishansingh7&layout=compact&theme=tokyonight&cache_seconds=1800"
         width="100%"
-        height="50%"
+        height="195"
       />
     </td>
 
