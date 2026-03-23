@@ -76,7 +76,9 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
 </p>
 
+</tr>
 
+<tr>
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
@@ -90,8 +92,8 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=krishansingh7&theme=tokyonight" />
 </p>
+</tr>
 
-  </tr>
 </table>
 
 
