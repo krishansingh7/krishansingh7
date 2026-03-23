@@ -25,10 +25,9 @@
   </a>
 </p>
 
-<table>
-  <tr>
-    <!-- LEFT COLUMN -->
-    <td valign="top" width="50%">
+<div>
+
+<div>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -51,6 +50,11 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
 </p>
 
+</div>
+
+
+<div>
+  
 <!-- 🖥️ Backend -->
 <p><strong>🖥️ Backend & DB:</strong></p>
 <p>
@@ -76,11 +80,14 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
 </p>
 
-</tr>
+</div>
 
-<tr>
+
+
+
 <h3 align="center">📊 GitHub Stats</h3>
 
+<div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=krishansingh7&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
@@ -88,13 +95,15 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishansingh7&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
+</div>
 
+<div>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=krishansingh7&theme=tokyonight" />
 </p>
-</tr>
+</div>
 
-</table>
+</div>
 
 
 
