@@ -26,6 +26,7 @@
 </p>
 
 <!-- <h3 align="left">🛠️ Languages and Tools</h3> -->
+
 <h3>🛠️ Languages and Tools</h3>
 
 <table>
@@ -79,8 +80,6 @@
         </tr>
       </table>
     </td>
-
-    <!-- RIGHT COLUMN: GitHub Stats -->
     <td valign="top" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=krishansingh7&show_icons=true&theme=tokyonight&cache_seconds=1800" /><br/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishansingh7&layout=compact&theme=tokyonight&cache_seconds=1800" /><br/>
